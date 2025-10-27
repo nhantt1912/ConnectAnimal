@@ -1,0 +1,16 @@
+# Cocos Creator 3.x
+library/
+local/
+temp/
+build/
+log/
+.cache/
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE / Editor
+.vscode/
+.DS_Store
+Thumbs.db
